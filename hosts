@@ -1,5 +1,10 @@
-edge.venatusmedia.com
-mp.4dex.io
-elb.the-ozone-project.com
-beacon-ams3.rubiconproject.com
-
+# Yandex Domains Blocklist
+0.0.0.0 yandex.ru
+0.0.0.0 ya.ru
+0.0.0.0 yandex.net
+0.0.0.0 yandex.com
+0.0.0.0 yastatic.net
+0.0.0.0 yandex.kz
+0.0.0.0 yandex.by
+0.0.0.0 yandex.com.tr
+0.0.0.0 yandex.ua
