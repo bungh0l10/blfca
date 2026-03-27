@@ -11,7 +11,11 @@
 
 # html-load
 0.0.0.0 html-load.com
-0.0.0.0 *.html-load.com
+0.0.0.0 0.fb.html-load.com
+0.0.0.0 1.fb.html-load.com
+0.0.0.0 2.fb.html-load.com
+0.0.0.0 3.fb.html-load.com
+0.0.0.0 4.fb.html-load.com
 
 # seedtag
 0.0.0.0 seedtag.com
