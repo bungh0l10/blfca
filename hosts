@@ -1,50 +1,77 @@
+# .by
+0.0.0.0 yandex.by
+
 # .com
+# casalmedia
 0.0.0.0 a1145.casalmedia.com
-0.0.0.0 ads.venatusmedia.com
 0.0.0.0 analytics.casalmedia.com
 0.0.0.0 as.casalmedia.com
-0.0.0.0 casalemedia.com
-0.0.0.0 cdn.seedtag.com
-0.0.0.0 cdn.venatusmedia.com
-0.0.0.0 config.seedtag.com
-0.0.0.0 doubleclick.net
-0.0.0.0 edge.venatusmedia.com
-0.0.0.0 html-load.com
-0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 r.casalmedia.com
-0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 casalemedia.com
+
+# html-load
+0.0.0.0 html-load.com
+0.0.0.0 3.fb.html-load.com
+
+# seedtag
 0.0.0.0 seedtag.com
-0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 cdn.seedtag.com
+0.0.0.0 config.seedtag.com
+
+# venatusmedia
 0.0.0.0 venatusmedia.com
+0.0.0.0 ads.venatusmedia.com
+0.0.0.0 cdn.venatusmedia.com
+0.0.0.0 edge.venatusmedia.com
+
+# doubleclick
+0.0.0.0 doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+
+# yandex
 0.0.0.0 yandex.com
 0.0.0.0 yandex.com.tr
 
+# .de
+# mediago
+0.0.0.0 mediago.de
+0.0.0.0 trace.mediago.de
+0.0.0.0 trace-eu.mediago.de
+
+# .io
+# 4dex
+0.0.0.0 4dex.io
+0.0.0.0 mp.4dex.io
+
+# bytebrew
+0.0.0.0 api.bytebrew.io
+0.0.0.0 dashboard.bytebrew.io
+0.0.0.0 web-platform.bytebrew.io
+
+# .kz
+0.0.0.0 yandex.kz
+
 # .net
+# doubleclick
+0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 adsdkprod.azureedge.net
-0.0.0.0 az416426.vo.msecnd.net
-0.0.0.0 doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
+
+# azure / msecnd
+0.0.0.0 adsdkprod.azureedge.net
+0.0.0.0 az416426.vo.msecnd.net
+
+# yandex
 0.0.0.0 yandex.net
 0.0.0.0 yastatic.net
 
-# .de
-0.0.0.0 mediago.de
-0.0.0.0 trace-eu.mediago.de
-0.0.0.0 trace.mediago.de
-
-# .io
-0.0.0.0 4dex.io
-0.0.0.0 api.bytebrew.io
-0.0.0.0 dashboard.bytebrew.io
-0.0.0.0 mp.4dex.io
-0.0.0.0 web-platform.bytebrew.io
-
-# various
+# .ru
 0.0.0.0 ya.ru
-0.0.0.0 yandex.by
-0.0.0.0 yandex.kz
+
+# .ua
 0.0.0.0 yandex.ua
